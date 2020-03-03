@@ -1,0 +1,7 @@
+CE DOCUMENT VOUS PERMETTRA DE MIEUX COMPRENDRE LES FONCTIONNALITÉS DE 
+L ARCHIVAGE AFIN DE POUVOIR MIEUX LE MANIPULER :
+
+-lw : pour executer la commande lshw '
+-lu : pour executer la commande lscpu '
+-help : pour afficher le manuel '
+-save : pour enregistrer'
