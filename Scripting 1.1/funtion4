@@ -1,0 +1,5 @@
+1) Affiche les informations sur les péripheriques de votre  ordinateur : -lw  '
+2) Affiche les informations sur larchitecture du processeur : -lu ' 
+3) pour afficher le manuel : -help '
+4) Pour enregistrer : -save'
+
